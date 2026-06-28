@@ -25,3 +25,7 @@ This mod also adds new hotkeys to permanently toggle the visibility of various U
 * **`CTRL` + `N` (Notifications):** Toggles the alerts displayed to the right of the toolbar (e.g., missing construction items, damaged entities).
 
 > ⚙️ **Customization:** All of these hotkeys can be rebound to your preference by going to **Options** -> **Controls** -> **Mods**.
+
+### Credits
+
+Based on https://mods.factorio.com/mod/more-minimap-autohide-017 by kubiixx
